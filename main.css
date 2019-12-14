@@ -1,0 +1,54 @@
+*{
+    background-color: #9fe7f1}
+
+
+h1 {
+    
+    margin-bottom: 50.5px;
+    background-color: rgb(147, 129, 161);
+    text-align:center;
+    display: block;
+    color: hsl(0, 0%, 10%) 
+
+
+
+}
+
+
+nav{ font-style: tahoma
+
+
+}
+ h2{
+background-color: #8b8888;
+font: size 14;
+border-color: #466a79
+
+
+}
+    
+     article {background-color: #658a67;
+        margin-bottom: 100px;
+    
+        text-align: center ;
+    
+    
+    }
+    h3{ background-color: rgb(179, 197, 76);
+
+        
+    }
+     p {
+    
+        background-color:#a2daa5;    
+        
+    }
+    
+     
+    div { font-size: 10mm;
+        display: block;
+        columns: #454a7a;
+
+    
+
+    }
